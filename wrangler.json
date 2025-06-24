@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "workshopapp",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e4e09ed3-34c4-4e20-86f0-3d343dc184c8",
+      "database_name": "officina-auto"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
